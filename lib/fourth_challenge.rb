@@ -8,6 +8,9 @@ def fourth_challenge
         :name => "",
         :attitude => "",
         :age => ""
+        :name => "",
+        :attitude => "",
+        :age => ""
         #your hashes here!
         
       ]
