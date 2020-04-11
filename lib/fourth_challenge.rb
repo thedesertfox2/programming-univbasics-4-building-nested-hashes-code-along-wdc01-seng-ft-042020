@@ -7,7 +7,7 @@ def fourth_challenge
       :hero_friends => [
         {:name => "Benvolio",
         :attitude => "worried",
-        :age => "17"}
+        :age => "17"},
         
         {:name => "Mercutio",
         :attitude => "hot-headed",
@@ -24,7 +24,7 @@ def fourth_challenge
         #your hashes here!
         {:name => "Steven",
         :attitude => "confused",
-        :age => "30"}
+        :age => "30"},
         
         {:name => "Nurse",
         :attitude => "worried",
